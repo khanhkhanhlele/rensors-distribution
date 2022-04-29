@@ -202,7 +202,7 @@ def genetic_algorithm(
     return best_sensors, score
 
 
-def run_ga():
+def run_ga(read_time, water_network, min_det_time, dt, node_to_id, n_scenarios, sensor_characteristics, scenario_characteristics, limit_sensors):
   log_node_iter = []
   log_population = []
 

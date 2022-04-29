@@ -12,7 +12,8 @@ from scipy.special import softmax
 from pyswarms.utils.plotters import plot_cost_history, plot_contour, plot_surface
 from numpy.random import choice
 
-def run_pso():
+
+def run_pso(read_time, water_network, min_det_time, dt, node_to_id, n_scenarios, sensor_characteristics, scenario_characteristics, limit_sensors):
   options = {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
   bounds = (-2000. * np.ones(n_scenarios), 2000. * np.ones(n_scenarios))
   time_s = time.time()
