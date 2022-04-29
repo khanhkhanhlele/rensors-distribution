@@ -1,0 +1,98 @@
+,Net,ERROR
+0,CCWI17-HermanMahmoud.inp,zero-size array to reduction operation maximum which has no identity
+0,Awumah_layout1.inp,zero-size array to reduction operation maximum which has no identity
+0,epanet_leaks.inp,kth(=-1) out of bounds (4)
+0,Todini_Fig2_solA_GPM.inp,zero-size array to reduction operation maximum which has no identity
+0,Todini_Fig2_solA_CMH.inp,zero-size array to reduction operation maximum which has no identity
+0,conditional_controls_1.inp,kth(=-2) out of bounds (3)
+0,Todini_Fig2_optCost_GPM.inp,zero-size array to reduction operation maximum which has no identity
+0,Awumah_layout8.inp,zero-size array to reduction operation maximum which has no identity
+0,cv_controls.inp,EPANET Error 223
+0,Todini_Fig2_optCost_CMH.inp,zero-size array to reduction operation maximum which has no identity
+0,control_comb.inp,kth(=-2) out of bounds (3)
+0,leaks.inp,kth(=-2) out of bounds (3)
+0,tank_controls_1.inp,kth(=-2) out of bounds (3)
+0,tank_controls_2.inp,kth(=-1) out of bounds (4)
+0,skeletonize.inp,zero-size array to reduction operation maximum which has no identity
+0,times.inp,kth(=-2) out of bounds (3)
+0,time_controls.inp,kth(=-2) out of bounds (3)
+0,simulator.inp,kth(=-2) out of bounds (3)
+0,1_Hanoi.inp,zero-size array to reduction operation maximum which has no identity
+0,7_KLmod.inp,zero-size array to reduction operation maximum which has no identity
+0,6_Rural.inp,zero-size array to reduction operation maximum which has no identity
+0,4_ZJ.inp,zero-size array to reduction operation maximum which has no identity
+0,5_Balerma.inp,zero-size array to reduction operation maximum which has no identity
+0,2_Extended Hanoi.inp,zero-size array to reduction operation maximum which has no identity
+0,House3_House_Age.inp,zero-size array to reduction operation maximum which has no identity
+0,Hanoi_CMH.inp,zero-size array to reduction operation maximum which has no identity
+0,2fcvs.inp,zero-size array to reduction operation maximum which has no identity
+0,2Tanks.inp,zero-size array to reduction operation maximum which has no identity
+0,Example_2.inp,'NoneType' object has no attribute 'factor'
+0,5fcvs.inp,%s is not a valid member of WaterNetworkModel
+0,2PRVs.inp,zero-size array to reduction operation maximum which has no identity
+0,2PRVs-a.inp,zero-size array to reduction operation maximum which has no identity
+0,BELL_CL1.inp,EPANET Error 200
+0,2PRVs-aquis.inp,am_pm option not recognized; options are AM or PM
+0,6848-68nodes.inp,zero-size array to reduction operation maximum which has no identity
+0,FFCL-1.inp,'NoneType' object has no attribute 'factor'
+0,Extended Hanoi.inp,zero-size array to reduction operation maximum which has no identity
+0,BWSN_Network_1.inp,Invalid chemical units in OPTIONS section
+0,Elhay-ZeroFlow.inp,zero-size array to reduction operation maximum which has no identity
+0,NET1cv.inp,zero-size array to reduction operation maximum which has no identity
+0,NET1emit.inp,zero-size array to reduction operation maximum which has no identity
+0,NET1para.inp,zero-size array to reduction operation maximum which has no identity
+0,Battle of the Calibration Networks System.inp,zero-size array to reduction operation maximum which has no identity
+0,Balerma.inp,zero-size array to reduction operation maximum which has no identity
+0,MICROPOLIS_v1.inp,could not convert string to float: '6 AM'
+0,JEP5-13.inp,"('inpfile_units = ""%s"" is not a valid EPANET unit code', 'SI')"
+0,NET1np.inp,zero-size array to reduction operation maximum which has no identity
+0,NET1negemit.inp,zero-size array to reduction operation maximum which has no identity
+0,Hanoi.inp,zero-size array to reduction operation maximum which has no identity
+0,NET1-PBV.inp,zero-size array to reduction operation maximum which has no identity
+0,GES4-9.inp,zero-size array to reduction operation maximum which has no identity
+0,ZJ.inp,zero-size array to reduction operation maximum which has no identity
+0,NPCL-1.inp,'NoneType' object has no attribute 'is_traditional'
+0,RuralNetwork.inp,zero-size array to reduction operation maximum which has no identity
+0,OBCL-1.inp,'NoneType' object has no attribute 'factor'
+0,foss_poly_1.inp,'Default pattern time is undefined'
+0,exnet.inp,Cannot specify am/pm for times greater than 12:00:00
+0,gestar1modHW.inp,zero-size array to reduction operation maximum which has no identity
+0,gestar1mod.inp,zero-size array to reduction operation maximum which has no identity
+0,ky14.inp,zero-size array to reduction operation maximum which has no identity
+0,fcv.inp,zero-size array to reduction operation maximum which has no identity
+0,fcv-noflow.inp,zero-size array to reduction operation maximum which has no identity
+0,ky15.inp,zero-size array to reduction operation maximum which has no identity
+0,fcv2.inp,zero-size array to reduction operation maximum which has no identity
+0,gestar1.inp,zero-size array to reduction operation maximum which has no identity
+0,simpson_test.inp,zero-size array to reduction operation maximum which has no identity
+0,st-net3-3.inp,zero-size array to reduction operation maximum which has no identity
+0,ky7.inp,zero-size array to reduction operation maximum which has no identity
+0,noflow.inp,zero-size array to reduction operation maximum which has no identity
+0,ky3.inp,zero-size array to reduction operation maximum which has no identity
+0,st-net3.inp,zero-size array to reduction operation maximum which has no identity
+0,test101.inp,zero-size array to reduction operation maximum which has no identity
+0,simpson_test_2-12.inp,zero-size array to reduction operation maximum which has no identity
+0,ky6.inp,zero-size array to reduction operation maximum which has no identity
+0,test101-3.inp,zero-size array to reduction operation maximum which has no identity
+0,todinitest.inp,zero-size array to reduction operation maximum which has no identity
+0,simplenet.inp,'10'
+0,anytown-3.inp,zero-size array to reduction operation maximum which has no identity
+0,Net3_trace.inp,"Statistic must be one of AVERAGED, MINIMUM, MAXIMUM, RANGE or NONE"
+0,mod_anytown-3a.inp,zero-size array to reduction operation maximum which has no identity
+0,57460.inp,"('inpfile_units = ""%s"" is not a valid EPANET unit code', 'SI')"
+0,mod_anytown-3.inp,zero-size array to reduction operation maximum which has no identity
+0,net3-bio.inp,"Statistic must be one of AVERAGED, MINIMUM, MAXIMUM, RANGE or NONE"
+0,net2-cl2.inp,%s is not a valid member of WaterNetworkModel
+0,batch-nh2cl.inp,kth(=-3) out of bounds (2)
+0,Net3-NH2CL.inp,"Statistic must be one of AVERAGED, MINIMUM, MAXIMUM, RANGE or NONE"
+0,4_Alvisi.inp,"could not convert string to float: '16.367 ""'"
+0,anytown-exeter.inp,Cannot specify am/pm for times greater than 12:00:00
+0,13_Morley.inp,"13_Morley.inp:2337: Invalid section ""[COORDS]"""
+0,PES.inp,'79'
+0,BAK.inp,"('inpfile_units = ""%s"" is not a valid EPANET unit code', 'SI')"
+0,HAN.inp,zero-size array to reduction operation maximum which has no identity
+0,BLA.inp,'Default pattern 2 is undefined'
+0,GOY.inp,"('inpfile_units = ""%s"" is not a valid EPANET unit code', 'SI')"
+0,MOD.inp,zero-size array to reduction operation maximum which has no identity
+0,BIN.inp,'utf-8' codec can't decode byte 0xa1 in position 88: invalid start byte
+0,9_Iglesias-Rey.inp,'utf-8' codec can't decode byte 0xf3 in position 40: invalid continuation byte
