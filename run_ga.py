@@ -202,10 +202,9 @@ def genetic_algorithm(
     return best_sensors, score
 
 
-def run_ga(read_time, water_network, min_det_time, dt, node_to_id, n_scenarios, sensor_characteristics, scenario_characteristics, limit_sensors):
+def run_ga( water_network, min_det_time, dt, node_to_id, n_scenarios, sensor_characteristics, scenario_characteristics, limit_sensors):
   log_node_iter = []
   log_population = []
-
   time_s = time.time()
   best, score, history = genetic_algorithm(
       water_network=water_network,
