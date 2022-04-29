@@ -1,6 +1,6 @@
 import run_by_chama, run_ga, input_network, run_pso, read_network
 import numpy as np
-import panda as pd
+import pandas as pd
 
 net = "Net1.inp"
 path = "data/" + net
