@@ -1,3 +1,5 @@
+import argparse
+import os
 import numpy as np
 import pandas as pd
 import matplotlib.pylab as plt
@@ -235,10 +237,24 @@ def genetic_algorithm(path, size_of_population, num_available_sensors, selectivi
     return best_sensors, score
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--path', required=True, help='path to network file')
     time_s = time.time()
-    path = "data/Net1.inp"
-    best, score, history = genetic_algorithm(path = path, size_of_population=n_scenarios*20, num_available_sensors=5, n_iter=100,
-        selectivity=0.15, p_cross=0.75, p_mut=0.1, print_interval=5, verbose=True, return_history=True)
-    GA_time = time.time() - time_s
-    print('GA time',GA_time)
-    print('GA result', score)
+    args = parser.parse_args()
+    path = args.path
+    if not os.path.isdir(path): print("Wrong path")
+    elif path[-3:0] == "inp":
+        best, score, history = genetic_algorithm(path = path, size_of_population=n_scenarios*20, num_available_sensors=5, n_iter=100,
+            selectivity=0.15, p_cross=0.75, p_mut=0.1, print_interval=5, verbose=True, return_history=True)
+        GA_time = time.time() - time_s
+        print('GA time',GA_time)
+        print('GA result', score)
+    else:
+        for i, p in enumerate(os.listdir(path)):
+            best, score, history = genetic_algorithm(path = p, size_of_population=n_scenarios*20, num_available_sensors=5, n_iter=100,
+            selectivity=0.15, p_cross=0.75, p_mut=0.1, print_interval=5, verbose=True, return_history=True)
+            GA_time = time.time() - time_s
+            print("{}.Network file: {}".format(i, p))
+            print('GA time',GA_time)
+            print('GA result', score)
+            print("----------------------------------")
