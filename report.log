@@ -1,2 +1,260 @@
 2022-04-29 15:39:53,859 - pyomo.solvers - WARNING - Could not locate the 'glpsol' executable, which is required for solver 'glpk'
 2022-06-11 09:26:42,588 - pyomo.solvers - WARNING - Could not locate the 'glpsol' executable, which is required for solver 'glpk'
+2022-06-11 09:46:25,846 - pyomo.solvers - WARNING - Could not locate the 'glpsol' executable, which is required for solver 'glpk'
+2022-06-11 09:50:47,490 - pyomo.solvers - WARNING - Could not locate the 'glpsol' executable, which is required for solver 'glpk'
+2022-06-11 10:04:19,618 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:19,631 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,632 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,632 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,633 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,634 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,634 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,635 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,635 - wntr.epanet.io - WARNING - Curve was not used: "8"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,636 - wntr.epanet.io - WARNING - Curve was not used: "10"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,637 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,638 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,638 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,697 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,697 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,698 - wntr.epanet.io - WARNING - Curve was not used: "10a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,699 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,699 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,807 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,808 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,808 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,809 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,810 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,811 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,811 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,902 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:19,905 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,906 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,906 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,907 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,907 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,908 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,909 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:19,909 - wntr.epanet.io - WARNING - Curve was not used: "E1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,203 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,205 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,208 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,208 - wntr.epanet.io - WARNING - Curve was not used: "8b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,208 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,210 - wntr.epanet.io - WARNING - Curve was not used: "10a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,210 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,211 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,234 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,234 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,235 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,613 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,614 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,615 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,615 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,616 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,617 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,617 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:20,946 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:21,003 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,004 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,005 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,006 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,006 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,007 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,008 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,073 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,074 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,075 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,075 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,076 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,076 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,077 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,325 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,326 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,326 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,327 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,327 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,328 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,329 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,330 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,330 - wntr.epanet.io - WARNING - Curve was not used: "8b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,331 - wntr.epanet.io - WARNING - Curve was not used: "effNew"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,386 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,386 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:21,505 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:04:21,505 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:21,596 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:21,951 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:04:21,951 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:21,953 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,042 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-0"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,042 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:23,247 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:24,248 - wntr.epanet.io - WARNING - Unknown report parameter: node
+2022-06-11 10:04:24,543 - wntr.epanet.io - WARNING - Unknown report parameter: node
+2022-06-11 10:04:27,682 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:27,718 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:04:27,718 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:04:31,530 - wntr.epanet.io - WARNING - Curve was not used: "1641"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,530 - wntr.epanet.io - WARNING - Curve was not used: "1659"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,532 - wntr.epanet.io - WARNING - Curve was not used: "1691"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,532 - wntr.epanet.io - WARNING - Curve was not used: "1948"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "1641"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "1659"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "1691"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "1948"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "rc692"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,615 - wntr.epanet.io - WARNING - Curve was not used: "rc778"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,620 - wntr.epanet.io - WARNING - Curve was not used: "rc779"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,620 - wntr.epanet.io - WARNING - Curve was not used: "rc780"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,620 - wntr.epanet.io - WARNING - Curve was not used: "rc783"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,620 - wntr.epanet.io - WARNING - Curve was not used: "rc784"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,837 - wntr.epanet.io - WARNING - Curve was not used: "PQH_29"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,838 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,838 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,839 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,855 - wntr.epanet.io - WARNING - Curve was not used: "PQH_29"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,855 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,856 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,856 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,927 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-0"; saved as curve type None and unit conversion not performed
+2022-06-11 10:04:31,928 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,741 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,748 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,748 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,748 - wntr.epanet.io - WARNING - Curve was not used: "8"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,748 - wntr.epanet.io - WARNING - Curve was not used: "10"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,749 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,749 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,749 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,782 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,782 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,789 - wntr.epanet.io - WARNING - Curve was not used: "10a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,789 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,789 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,863 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,864 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,864 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,864 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,865 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,865 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,865 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,944 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:17,948 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,948 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,949 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,949 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,950 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,950 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,952 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:17,952 - wntr.epanet.io - WARNING - Curve was not used: "E1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,239 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,239 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,248 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,248 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,248 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,250 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,250 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,250 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,251 - wntr.epanet.io - WARNING - Curve was not used: "8b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,251 - wntr.epanet.io - WARNING - Curve was not used: "9b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,251 - wntr.epanet.io - WARNING - Curve was not used: "10a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,253 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,253 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,257 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,257 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,257 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,577 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,577 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,579 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,579 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,580 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,580 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,582 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,883 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:18,931 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,935 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,936 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,936 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,937 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,937 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,937 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,981 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,981 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,981 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,981 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,989 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,989 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:18,989 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,223 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,224 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,224 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,226 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,226 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,227 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,227 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,229 - wntr.epanet.io - WARNING - Curve was not used: "8a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,229 - wntr.epanet.io - WARNING - Curve was not used: "8b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,230 - wntr.epanet.io - WARNING - Curve was not used: "effNew"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,284 - wntr.epanet.io - WARNING - Curve was not used: "10b"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,284 - wntr.epanet.io - WARNING - Curve was not used: "11a"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:19,310 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:08:19,310 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:19,365 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:19,582 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:08:19,582 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:19,587 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,505 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-0"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,505 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,571 - wntr.epanet.io - WARNING - Curve was not used: "6"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "7"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "4"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "5"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "2"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "3"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:20,580 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:21,283 - wntr.epanet.io - WARNING - Unknown report parameter: node
+2022-06-11 10:08:21,513 - wntr.epanet.io - WARNING - Unknown report parameter: node
+2022-06-11 10:08:23,761 - wntr.epanet.io - WARNING - Curve was not used: "1"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:23,770 - wntr.epanet.io - WARNING - Unknown report parameter: MESSAGES
+2022-06-11 10:08:23,770 - wntr.epanet.io - WARNING - Unknown report parameter: State
+2022-06-11 10:08:27,556 - wntr.epanet.io - WARNING - Curve was not used: "1641"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,557 - wntr.epanet.io - WARNING - Curve was not used: "1659"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,558 - wntr.epanet.io - WARNING - Curve was not used: "1691"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,558 - wntr.epanet.io - WARNING - Curve was not used: "1948"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,630 - wntr.epanet.io - WARNING - Curve was not used: "1641"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,630 - wntr.epanet.io - WARNING - Curve was not used: "1659"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,630 - wntr.epanet.io - WARNING - Curve was not used: "1691"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,636 - wntr.epanet.io - WARNING - Curve was not used: "1948"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,636 - wntr.epanet.io - WARNING - Curve was not used: "rc692"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,638 - wntr.epanet.io - WARNING - Curve was not used: "rc778"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,638 - wntr.epanet.io - WARNING - Curve was not used: "rc779"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,638 - wntr.epanet.io - WARNING - Curve was not used: "rc780"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,638 - wntr.epanet.io - WARNING - Curve was not used: "rc783"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,641 - wntr.epanet.io - WARNING - Curve was not used: "rc784"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,720 - wntr.epanet.io - WARNING - Curve was not used: "PQH_29"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,720 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,723 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,724 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,728 - wntr.epanet.io - WARNING - Curve was not used: "PQH_29"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,728 - wntr.epanet.io - WARNING - Curve was not used: "PQH_30"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,728 - wntr.epanet.io - WARNING - Curve was not used: "PQH_31"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,731 - wntr.epanet.io - WARNING - Curve was not used: "PQH_32"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,762 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-0"; saved as curve type None and unit conversion not performed
+2022-06-11 10:08:27,762 - wntr.epanet.io - WARNING - Curve was not used: "CURVE-2"; saved as curve type None and unit conversion not performed
