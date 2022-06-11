@@ -2,24 +2,35 @@ import os
 import run_by_chama, run_by_ga, input_network, run_pso, read_network
 import numpy as np
 import pandas as pd
+import shutil
+import csv
 
-# net = "Net1.inp"
-# path = "data/" + net
-# net_info = read_network.read_network(path)
-# print(net_info)
-
-path = "data"
+path = "data_read_success"
 dir_list = os.listdir(path)
 for a in dir_list:
   if 'inp' in a:
     try:
-        path = "data/" +a
-        net_info = read_network.read_network(path)
-        print("success: ", a)
+        path = "data_read_success/" + a
+        des = "data_high_nodes/"+a
+        info = read_network.read_network(path)
+        if info[1]>=500:
+            shutil.copyfile(path, des)
     except:
         print('fail:-------------------------', a)
 
 
+# path = "data_read_success"
+# dir_list = os.listdir(path)
+# f = open('result/table.csv','w')
+# writer = csv.writer(f)
+# for a in dir_list:
+#     try:
+#         path = "data_read_success/"+a
+#         info = read_network.read_network(path)
+#         writer.writerow(info)
+#     except:
+#         print('fail:-------------------------', a)
+# f.close()
 
 
 
